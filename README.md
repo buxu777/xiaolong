@@ -2,6 +2,8 @@
 
 **国内 AI Agent 专用下载工具 — aria2c 工业引擎 + 智能镜像加速**
 
+> **关键词**：`AI Agent` `下载加速` `GitHub镜像` `aria2` `国内加速` `Gitee` `Skill` `多源下载` `断点续传` `大模型下载`
+
 [![Version](https://img.shields.io/badge/version-4.0-blue)](https://gitee.com/buxu777/xiaolong-downloader)
 [![Python](https://img.shields.io/badge/python-3.7+-green)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
