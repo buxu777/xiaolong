@@ -1,8 +1,8 @@
 # 小龙下载器 v4.0
 
-**国内 AI Agent 专用下载工具 — aria2c 工业引擎 + 智能镜像加速**
+**Claude Code / OpenClaw / Hermes 可用 — 说"下载"就加速**
 
-> *XiaoLong Downloader — an AI-native download skill purpose-built for the Chinese market. aria2c industrial engine + GitHub mirror acceleration + smart file categorization. Peak 7.2 MiB/s. MIT licensed.*
+> *XiaoLong Downloader — a downloadable skill for AI coding assistants (Claude Code, OpenClaw, Hermes). aria2c industrial engine + GitHub mirror acceleration + smart categorization. Peak 7.2 MiB/s. MIT licensed.*
 
 > **关键词**：`AI Agent` `下载加速` `GitHub镜像` `aria2` `国内加速` `Gitee` `Skill` `多源下载` `断点续传` `大模型下载`
 
@@ -14,7 +14,7 @@
 
 ## 定位
 
-一个专门为 **国内 AI Agent 工作流** 打造的下载 Skill。
+在 **Claude Code、OpenClaw、Hermes** 等 AI 编程助手里，说句话就能用的下载 Skill。
 
 当你的 AI 助手需要下载 GitHub 文件、模型权重、数据集、软件包时：
 
