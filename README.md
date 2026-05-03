@@ -2,11 +2,15 @@
 
 **国内 AI Agent 专用下载工具 — aria2c 工业引擎 + 智能镜像加速**
 
+> *XiaoLong Downloader — an AI-native download skill purpose-built for the Chinese market. aria2c industrial engine + GitHub mirror acceleration + smart file categorization. Peak 7.2 MiB/s. MIT licensed.*
+
 > **关键词**：`AI Agent` `下载加速` `GitHub镜像` `aria2` `国内加速` `Gitee` `Skill` `多源下载` `断点续传` `大模型下载`
 
-[![Version](https://img.shields.io/badge/version-4.0-blue)](https://gitee.com/buxu777/xiaolong-downloader)
+[![Version](https://img.shields.io/badge/version-4.0-blue)](https://github.com/buxu777/xiaolong)
 [![Python](https://img.shields.io/badge/python-3.7+-green)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
+[![Stars](https://img.shields.io/badge/dynamic/json?label=stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbuxu777%2Fxiaolong)](https://github.com/buxu777/xiaolong)
+[![Lang](https://img.shields.io/badge/lang-中文%20%7C%20English-blue)](https://github.com/buxu777/xiaolong)
 
 ## 定位
 
@@ -94,3 +98,7 @@ python scripts/download_v3.py <URL> --extract --scan
 ## License
 
 MIT © 2026
+
+---
+
+**GitHub**：[github.com/buxu777/xiaolong](https://github.com/buxu777/xiaolong) · **Gitee**：[gitee.com/buxu777/xiaolong-downloader](https://gitee.com/buxu777/xiaolong-downloader)
